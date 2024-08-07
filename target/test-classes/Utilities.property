@@ -1,0 +1,10 @@
+#Updated QA URL
+#Thu Jun 27 11:55:51 IST 2024
+password=password
+file=C\:\\Users\\ADMIN\\eclipse\\RedBus\\src\\test\\resources\\Utilities.property
+urlQa=https\://www.redbus.in.qa
+env1=uat
+env=qa
+url=https\://www.redbus.in
+key=value
+username=udaya
