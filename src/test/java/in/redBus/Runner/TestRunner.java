@@ -19,5 +19,4 @@ public class TestRunner {
 	//build
 	//maven goal - clean, test, install
 	//command prompt execution
-	//new code
 }
